@@ -1,0 +1,33 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+a:hover { 					
+	font-weight: 500;
+	color: #743c00;
+	font-weight: 800;
+	transition: color 0.3s ease;
+}
+
+
+body {
+	font-family: 'Teko', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #26304d;
+}
+
+h1 {
+	font-family: 'Alatsi', sans-serif;
+}
+
+h2, h3 {
+	font-family: 'Inria Serif', serif;
+	letter-spacing: 1px;
+}
+
+a {
+	text-decoration: none;
+}
